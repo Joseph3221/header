@@ -9,6 +9,6 @@ Form.addEventListener('submit', (e) => {
     fetch(URL, {
         method:'POST',
         body:body
-    }).then(res => window.location.assign('./header.html'))
+    }).then(res => window.location.assign('/'))
     console.log(body)
 })
