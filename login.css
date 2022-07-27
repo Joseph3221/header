@@ -1,0 +1,38 @@
+body {
+    margin:0% ;
+    background-color: rgba(128, 128, 128, 0.925); 
+    width: 50%;
+}
+main{
+    width: 50%;
+}
+#h1 {
+ font-size:larger; 
+ text-align: center;  
+ color: white;
+}
+
+
+div {padding: 2em 2em;
+text-align: left;
+width: 50%;
+}
+
+
+#sub {
+    color: white;
+border-radius: 0%;
+border: 0.5em ;
+color: green;
+align-content: left;
+padding: 1em 1em;
+display: block;
+font-size: larger;
+background-color: rgba(128, 128, 128, 0.483);
+border: 5px;
+}
+
+form {
+    width: 50% ;
+    color: white;
+}
